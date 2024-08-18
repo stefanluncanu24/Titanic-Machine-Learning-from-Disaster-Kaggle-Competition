@@ -38,7 +38,7 @@ The "Titanic - Machine Learning from Disaster" on Kaggle is a competition where 
 
 ### Submission
 - Preparation of submission file for the Kaggle competition.
-- 
+  
 ## Contributions
 - Contributions are welcome! Feel free to fork the project, make improvements, and submit a pull request.
 
