@@ -32,13 +32,10 @@ The "Titanic - Machine Learning from Disaster" on Kaggle is a competition where 
 
 ### Results and Evaluation
 - Performance of models is assessed using accuracy as the metric.
-- The final predictions are made using the best-performing model on the unseen test dataset.
+- The final predictions are made using the best-performing model on the unseen test dataset (in this case i chose XGBoost because it gave me the highest score in the competition)
 
 ### Submission
 - Preparation of submission file for the Kaggle competition.
-
-## Usage
-- Clone the repository, install required packages, and run the Jupyter notebook to replicate the analysis and results.
 
 ## Contributions
 - Contributions are welcome! Feel free to fork the project, make improvements, and submit a pull request.
