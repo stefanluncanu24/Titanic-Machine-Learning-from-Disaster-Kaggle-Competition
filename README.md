@@ -1,5 +1,7 @@
 # Titanic---Machine-Learning-from-Disaster-Competition
-The "Titanic - Machine Learning from Disaster" on Kaggle is a competition where participants use machine learning to predict passenger survival. I'm excited to be in the top 9% of participants!
+The "Titanic - Machine Learning from Disaster" on Kaggle is a competition where participants use machine learning to predict passenger survival. I'm excited to be in the top 9% of participants! (as of 18 August 2024)
+
+  ![image](https://github.com/user-attachments/assets/ad7e5310-f156-43fe-bf93-912d5d4209a1)
 
 # Overview of the Project
 
@@ -36,10 +38,7 @@ The "Titanic - Machine Learning from Disaster" on Kaggle is a competition where 
 
 ### Submission
 - Preparation of submission file for the Kaggle competition.
-
-### Competition results ( as of 18 of August 2024 )
-  ![image](https://github.com/user-attachments/assets/ad7e5310-f156-43fe-bf93-912d5d4209a1)
-
+- 
 ## Contributions
 - Contributions are welcome! Feel free to fork the project, make improvements, and submit a pull request.
 
