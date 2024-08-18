@@ -1,12 +1,13 @@
 # Titanic---Machine-Learning-from-Disaster-Competition
 The "Titanic - Machine Learning from Disaster" on Kaggle is a competition where participants use machine learning to predict passenger survival. I'm excited to be in the top 9% of participants!
 
-# Overview of Titanic Survival Prediction Project
+# Overview of the Project
 
-## Description
-This project is a comprehensive analysis and machine learning model training for predicting the survival of passengers from the Titanic dataset. The project covers all steps from data loading and preprocessing to model training and validation.
-
-## Repository Structure
+## File Explanations
+- model.ipynb - code used for the project
+- submission.csv - file used for the final submission
+- test.csv - unlabeled data used for the final submission
+- train.csv - labeled data used for training
 
 ### Loading Libraries
 - Essential libraries such as NumPy, Pandas, Matplotlib, Seaborn, and scikit-learn are loaded for data manipulation, visualization, and machine learning.
