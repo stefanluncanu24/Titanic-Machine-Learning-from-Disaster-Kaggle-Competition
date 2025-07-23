@@ -7,7 +7,6 @@ The "Titanic - Machine Learning from Disaster" on Kaggle is a competition where 
 
 ## File Explanations
 - model.ipynb - code used for the project
-- submission.csv - file used for the final submission
 - test.csv - unlabeled data used for the final submission
 - train.csv - labeled data used for training
 
